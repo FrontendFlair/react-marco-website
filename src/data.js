@@ -113,43 +113,43 @@ export default foodItems;
 export const foodgallery = [
     {
         category: "Breakfast",
-        url: "src/assets/img1.jpg"
+        url: "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
         category: "Breakfast",
-        url: "src/assets/img2.jpg"
+        url: "https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
         category: "Breakfast",
-        url: "src/assets/img3.jpg"
+        url: "https://images.pexels.com/photos/1099680/pexels-photo-1099680.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
         category: "Lunch",
-        url: "src/assets/img4.jpg"
+        url: "https://images.pexels.com/photos/1640772/pexels-photo-1640772.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
         category: "Lunch",
-        url: "src/assets/img5.jpg"
+        url: "https://images.pexels.com/photos/1199957/pexels-photo-1199957.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
         category: "Lunch",
-        url: "src/assets/img6.jpg"
+        url: "https://images.pexels.com/photos/262959/pexels-photo-262959.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
         category: "Dinner",
-        url: "src/assets/img7.jpg"
+        url: "https://images.pexels.com/photos/769289/pexels-photo-769289.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
         category: "Dinner",
-        url: "src/assets/img8.jpg"
+        url: "https://images.pexels.com/photos/2097090/pexels-photo-2097090.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
         category: "Dinner",
-        url: "src/assets/img9.jpg"
+        url: "https://images.pexels.com/photos/2641886/pexels-photo-2641886.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
         category: "Budget Meal",
-        url: "src/assets/img10.jpg"
+        url: "https://images.pexels.com/photos/718742/pexels-photo-718742.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
         category: "Budget Meal",
