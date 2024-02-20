@@ -153,82 +153,82 @@ export const foodgallery = [
     },
     {
         category: "Budget Meal",
-        url: "src/assets/img11.jpg"
+        url: "https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
         category: "Budget Meal",
-        url: "src/assets/img12.jpg"
+        url: "https://images.pexels.com/photos/2725744/pexels-photo-2725744.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
         category: "Breakfast",
-        url: "src/assets/img13.jpg"
+        url: "https://images.pexels.com/photos/750073/pexels-photo-750073.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
         category: "Breakfast",
-        url: "src/assets/img14.jpg"
+        url: "https://images.pexels.com/photos/1893556/pexels-photo-1893556.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
         category: "Breakfast",
-        url: "src/assets/img15.jpg"
+        url: "https://images.pexels.com/photos/2233351/pexels-photo-2233351.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
         category: "Lunch",
-        url: "src/assets/img16.jpg"
+        url: "https://images.pexels.com/photos/1653877/pexels-photo-1653877.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
         category: "Lunch",
-        url: "src/assets/img17.jpg"
+        url: "https://images.pexels.com/photos/1199957/pexels-photo-1199957.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
         category: "Lunch",
-        url: "src/assets/img18.jpg"
+        url: "https://images.pexels.com/photos/1199958/pexels-photo-1199958.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
         category: "Dinner",
-        url: "src/assets/img19.jpg"
+        url: "https://images.pexels.com/photos/1633495/pexels-photo-1633495.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
         category: "Dinner",
-        url: "src/assets/img20.jpg"
+        url: "https://images.pexels.com/photos/1566837/pexels-photo-1566837.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
         category: "Dinner",
-        url: "src/assets/img21.jpg"
+        url: "https://images.pexels.com/photos/2619970/pexels-photo-2619970.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
         category: "Budget Meal",
-        url: "src/assets/img22.jpg"
+        url: "https://images.pexels.com/photos/1211887/pexels-photo-1211887.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
         category: "Budget Meal",
-        url: "src/assets/img23.jpg"
+        url: "https://images.pexels.com/photos/2983101/pexels-photo-2983101.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
         category: "Budget Meal",
-        url: "src/assets/img24.jpg"
+        url: "https://images.pexels.com/photos/106343/pexels-photo-106343.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
         category: "Breakfast",
-        url: "src/assets/img25.jpg"
+        url: "https://images.pexels.com/photos/1132558/pexels-photo-1132558.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
         category: "Breakfast",
-        url: "src/assets/img26.jpg"
+        url: "https://images.pexels.com/photos/1437267/pexels-photo-1437267.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
         category: "Breakfast",
-        url: "src/assets/img27.jpg"
+        url: "https://images.pexels.com/photos/1199960/pexels-photo-1199960.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
         category: "Lunch",
-        url: "src/assets/img28.jpg"
+        url: "https://images.pexels.com/photos/1860204/pexels-photo-1860204.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
         category: "Lunch",
-        url: "src/assets/img29.jpg"
+        url: "https://images.pexels.com/photos/3026808/pexels-photo-3026808.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
         category: "Lunch",
-        url: "src/assets/img30.jpg"
+        url: "https://images.pexels.com/photos/1049620/pexels-photo-1049620.jpeg?auto=compress&cs=tinysrgb&w=600"
     }
 ];
